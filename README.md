@@ -5,5 +5,5 @@
 Encryption Method that interchanges the pairs of Number 
 
 Example:
-# Encryption Integer: 346236 -- Input
-# Decryption Integer: 432663 -- Output
+<samp> Encryption Integer: 346236 -- Input
+<samp> Decryption Integer: 432663 -- Output
