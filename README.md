@@ -1,6 +1,6 @@
 # Encryption
 
-# Number InterChange ✍
+<h2>Number InterChange ✍</h2>
 
 <h2>Encryption Method that interchanges the pairs of Number 🧾</h2> 
 
